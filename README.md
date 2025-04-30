@@ -89,5 +89,3 @@ Este setup usa volumes persistentes para garantir que os dados do Zabbix e do Po
 - `zabbix_postgres_data`: Armazenamento do banco de dados PostgreSQL.
 - `zabbix_server_data`: Armazenamento para o Zabbix Server.
 - `zabbix_web_data`: Armazenamento para a interface web do Zabbix.
-
-```
